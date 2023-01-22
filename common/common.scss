@@ -87,11 +87,11 @@ header.d-header.clearfix {
 }
 
 .banner-box h1, .banner-box h2 {
-    text-align: left!important;
+    text-align: center!important;
     color:var(--tertiary);
 }
 .banner-box h3{
-    text-align: left!important;
+    text-align: center!important;
     color:var(--tertiary);
 }
 
@@ -117,13 +117,14 @@ header.d-header.clearfix {
 
 .banner-box .section-header .description p {
     margin: 0;
-    padding-bottom: 4px!important;
+    padding-bottom: 25px!important;
     text-align: center!important;
     font-weight: 500;
     line-height: 20px;
     text-align: center;
     color: #575f6b;
     border: 1px solid rgba(0, 0, 0, 0);
+    padding-left: 230px;
 }
 
 .banner-box .section-header .colored-line {
