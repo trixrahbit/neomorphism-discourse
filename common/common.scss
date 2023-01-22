@@ -54,7 +54,7 @@ header.d-header.clearfix {
     background: linear-gradient(#f2f3f6 0%, #e5e6ec 100%);
 }
 .banner-box .row .single-box .banner-list ul li{
-    text-align: right;
+    text-align: center;
     margin: 0;
 }
 
@@ -87,7 +87,7 @@ header.d-header.clearfix {
 }
 
 .banner-box h1, .banner-box h2 {
-    text-align: left!important;
+    text-align: center!important;
     color:var(--tertiary);
 }
 .banner-box h3{
@@ -121,7 +121,7 @@ header.d-header.clearfix {
     text-align: center!important;
     font-weight: 500;
     line-height: 20px;
-    text-align: left;
+    text-align: center;
     color: #575f6b;
     border: 1px solid rgba(0, 0, 0, 0);
 }
