@@ -1,10 +1,10 @@
 {
-  "name": "neomorphism",
+  "name": "neomorphism-rabbit",
   "component": false,
   "license_url": null,
   "about_url": "https://github.com/twimbit/neomorphism-discourse",
-  "authors": "twimbit",
-  "theme_version": 1.0,
+  "authors": "rabbit",
+  "theme_version": 2.0,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
